@@ -1,3 +1,6 @@
+Aquí tienes una versión actualizada del archivo `README.md` para reflejar la nueva estructura de carpetas y archivos:
+
+---
 
 # Portafolio de Habilidades
 
@@ -15,10 +18,15 @@ Este repositorio contiene las evidencias que muestran el desarrollo de mis habil
 - **Genera tableros útiles y correctos que apoyen a la toma de decisiones:**
   - Evidencia: [Actividad_5_1_MatrizHat.ipynb](Modulo%205%20-%20estadística/Actividad_5_1_MatrizHat.ipynb)
   - Módulo: Estadística avanzada para la ciencia de datos (Módulo 5)
+  - Evidencia: [Repo app web.txt](Actividades%20de%20reto/Repo%20app%20web.txt) En el readme.
+  - Módulo: Reto
+
 
 - **Mide correctamente el desempeño del modelo y sus métricas son correctas:**
   - Evidencia: [Quiz_Regresión.JPG](Modulo%205%20-%20estadística/Quiz_Regresión.JPG)
   - Módulo: Estadística avanzada para la ciencia de datos (Módulo 5)
+  - Evidencia: [Segmentación_A01642317.ipynb](Modulo%203%20-%20proc%20lenguaje%20nat/Segmentación_A01642317.ipynb)
+  - Módulo: Herramientas para el procesamiento del lenguaje natural (Módulo 3)
 
 ---
 
@@ -28,11 +36,15 @@ Este repositorio contiene las evidencias que muestran el desarrollo de mis habil
   - Módulo: Reto
 
 - **Especifica procesos y estándares para garantizar la privacidad:**
-  - Evidencia: [Repo_Computer_Vision_Equipo.txt](Actividades%20de%20reto/Repo_Computer_Vision_Equipo.txt)
+  - Evidencia: [Repo app web.txt](Actividades%20de%20reto/Repo%20app%20web.txt)
+  - Módulo: Reto
+  - Evidencia: [Repo_Computer_Vision_Equipo.txt](Actividades%20de%20reto/Repo%20Computer%20Vision%20Equipo.txt)
   - Módulo: Reto
 
 - **Presenta registros claros sobre accesos a datos:**
-  - Evidencia: [Repo_Computer_Vision_Equipo.txt](Actividades%20de%20reto/Repo_Computer_Vision_Equipo.txt)
+  - Evidencia: [Repo app web.txt](Actividades%20de%20reto/Repo%20app%20web.txt)
+  - Módulo: Reto
+  - Evidencia: [Repo_Computer_Vision_Equipo.txt](Actividades%20de%20reto/Repo%20Computer%20Vision%20Equipo.txt)
   - Módulo: Reto
 
 ---
@@ -45,7 +57,7 @@ Este repositorio contiene las evidencias que muestran el desarrollo de mis habil
   - Módulo: Técnicas y arquitecturas de deep learning (Módulo 2)
 
 - **Evalúa y ajusta el desempeño del modelo:**
-  - Evidencia: [mkm_tarea.ipynb](Modulo%202%20-deep%20learning/mkm_tarea.ipynb)
+  - Evidencia: [AWS.pdf](Modulo%202%20-deep%20learning/AWS.pdf)
   - Módulo: Técnicas y arquitecturas de deep learning (Módulo 2)
 
 - **Utiliza un conjunto de datos reales:**
@@ -53,6 +65,8 @@ Este repositorio contiene las evidencias que muestran el desarrollo de mis habil
   - Módulo: Técnicas y arquitecturas de deep learning (Módulo 2)
 
 - **Predicciones mediante consola o interfaz:**
+  - Evidencia: [Repo app web.txt](Actividades%20de%20reto/Repo%20app%20web.txt)
+  - Módulo: Reto
   - Evidencia: [Repo deep learning.txt](Actividades%20de%20reto/Repo%20deep%20learning.txt)
   - Módulo: Técnicas y arquitecturas de deep learning (Módulo 2)
 
@@ -80,6 +94,11 @@ Este repositorio contiene las evidencias que muestran el desarrollo de mis habil
 
 ---
 
-Este README actúa como una guía para identificar rápidamente las evidencias relacionadas con cada competencia en los módulos correspondientes. Si tienen alguna pregunta, no duden en contactarme.
+### **4. Presentaciones Finales**
+- **Comunicación de resultados y propuestas:**
+  - Evidencia: [Final Pitch Myotubes.pdf](Actividades%20de%20reto/Final%20Pitch%20Myotubes.pdf)
+  - Módulo: Reto
 
---- 
+---
+
+Este README actúa como una guía para identificar rápidamente las evidencias relacionadas con cada competencia en los módulos correspondientes. Si tienen alguna pregunta, no duden en contactarme.
